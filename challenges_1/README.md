@@ -7,7 +7,9 @@ Format: `flag-...`
 
 ## Challenge 1 - 2
 
-Trouvez le most de passe qui affichera "Correct!".
+_Note: Ce challenge vient de crackmes.one_
+
+Trouvez le mot de passe qui affichera "Correct!".
 
 Format: Pas de format particulier. C'est deux mots collés.
 
